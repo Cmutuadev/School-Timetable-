@@ -12,3 +12,4 @@ This project recreates the 2024/2025 academic year school timetable using HTML a
 - The timetable preview image (`timetable_preview.png`) includes descriptive alt text to assist users relying on screen readers.
 
 ## File Structure
+✍️
